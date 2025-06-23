@@ -218,76 +218,13 @@ print(narrative[0]['generated_text'])
 
 ---
 
-## 📚 Documentation & Resources
-
-### 📖 Model Documentation
-- [RoBERTa Model Card](https://huggingface.co/LemkinAI/roberta-joint-ner-re) - Complete technical specifications
-- [T5 Model Card](https://huggingface.co/LemkinAI/t5-legal-narrative) - Detailed usage guide
-- [Technical Paper](docs/technical-paper.md) - Research methodology and evaluation
-- [API Reference](docs/api-reference.md) - Complete API documentation
-
-### 💡 Examples & Tutorials
-- [Getting Started Guide](examples/getting-started.ipynb) - Step-by-step tutorial
-- [Legal Entity Extraction](examples/entity-extraction.ipynb) - NER examples
-- [Narrative Generation](examples/narrative-generation.ipynb) - Text generation examples
-- [Multilingual Usage](examples/multilingual.ipynb) - Working with different languages
-
-### 🔧 Integration Guides
-- [Python Integration](docs/python-integration.md) - Detailed Python usage
-- [REST API](docs/rest-api.md) - HTTP API implementation
-- [Batch Processing](docs/batch-processing.md) - Processing large document collections
-- [Cloud Deployment](docs/cloud-deployment.md) - AWS, GCP, Azure deployment
-
----
-
 ## 🤝 Community & Support
 
 ### 💬 Get Involved
 - **GitHub Discussions:** [Join the conversation](https://github.com/Lemkin-AI/lemkin-ai-models/discussions)
 - **Issues:** [Report bugs or request features](https://github.com/Lemkin-AI/lemkin-ai-models/issues)
 - **Contributions:** See our [Contributing Guide](CONTRIBUTING.md)
-- **Research Collaboration:** [Contact us](mailto:research@lemkin.ai) for partnerships
-
-### 🆘 Support
-- **Documentation:** Comprehensive guides and examples
-- **Community Forum:** Get help from other users
-- **Professional Support:** Enterprise support available
-- **Training:** Workshops and training sessions
-
----
-
-## 🌟 Impact Stories
-
-> *"Lemkin AI's models have reduced our case analysis time by 80%, allowing us to focus on advocacy rather than document processing."*  
-> **— Human Rights Organization Director**
-
-> *"The multilingual capabilities have been game-changing for our international law practice."*  
-> **— International Law Firm Partner**
-
-> *"These models have enabled systematic analysis of thousands of court decisions for our research."*  
-> **— Legal Academic Researcher**
-
----
-
-## 🔮 Roadmap
-
-### 🎯 Short-term (3-6 months)
-- **Additional Languages:** German, Portuguese, Chinese support
-- **Performance Optimization:** 2x faster inference speeds
-- **Extended Entity Types:** Additional specialized legal categories
-- **API Development:** RESTful API for easy integration
-
-### 🎯 Medium-term (6-12 months)
-- **Legal Reasoning:** Enhanced understanding of legal logic and precedent
-- **Document Classification:** Automated legal document categorization
-- **Citation Analysis:** Understanding legal precedent relationships
-- **Temporal Analysis:** Enhanced timeline and chronology features
-
-### 🎯 Long-term (1-2 years)
-- **Multimodal Capabilities:** Processing documents with images and tables
-- **Real-time Analysis:** Live document processing and alerts
-- **Custom Fine-tuning:** Domain-specific model customization
-- **Integration Ecosystem:** Pre-built connectors for legal software
+- **Research Collaboration:** [Contact us](ostern@lemkinai.com) for partnerships
 
 ---
 
@@ -327,7 +264,7 @@ We thank the legal experts, human rights organizations, and research institution
 
 **🏛️ Lemkin AI - Advancing Justice Through Artificial Intelligence**
 
-[Website](https://lemkin.ai) • [Models](https://huggingface.co/LemkinAI) • [Documentation](docs/) • [Contact](mailto:contact@lemkin.ai)
+[Website](https://lemkinai.com) • [Models](https://huggingface.co/LemkinAI) • [Documentation](docs/) 
 
 *Making legal AI accessible to organizations fighting for justice worldwide*
 
