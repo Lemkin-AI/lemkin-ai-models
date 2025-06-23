@@ -223,7 +223,6 @@ print(narrative[0]['generated_text'])
 ### 💬 Get Involved
 - **GitHub Discussions:** [Join the conversation](https://github.com/Lemkin-AI/lemkin-ai-models/discussions)
 - **Issues:** [Report bugs or request features](https://github.com/Lemkin-AI/lemkin-ai-models/issues)
-- **Contributions:** See our [Contributing Guide](CONTRIBUTING.md)
 - **Research Collaboration:** [Contact us](ostern@lemkinai.com) for partnerships
 
 ---
@@ -237,26 +236,14 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 If you use our models in your research or applications, please cite:
 
 ```bibtex
-@misc{lemkin-ai-legal-models-2024,
+@misc{lemkin-ai-legal-models-2025,
   title={Lemkin AI Legal Intelligence Models: Specialized AI for Legal Text Analysis},
   author={Lemkin AI Team},
-  year={2024},
+  year={2025},
   url={https://github.com/Lemkin-AI/lemkin-ai-models},
   note={Open-source legal AI models for entity recognition, relation extraction, and narrative generation}
 }
 ```
-
----
-
-## 🙏 Acknowledgments
-
-We thank the legal experts, human rights organizations, and research institutions who contributed to the development and validation of these models:
-
-- **International legal experts** who provided domain expertise
-- **Human rights organizations** who shared anonymized training data
-- **Academic institutions** who supported research and evaluation
-- **Open-source community** for tools and infrastructure
-- **Raphael Lemkin's legacy** inspiring our commitment to justice
 
 ---
 
