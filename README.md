@@ -95,7 +95,7 @@ model = T5ForConditionalGeneration.from_pretrained("LemkinAI/t5-legal-narrative"
 
 ### 🏛️ Supporting International Justice
 
-Our models are actively supporting organizations working on:
+Our models are supporting organizations working on:
 
 - **International Criminal Court (ICC)** case analysis
 - **European Court of Human Rights (ECHR)** decision processing
